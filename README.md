@@ -2,9 +2,11 @@
 
 <h1 align="center"><b>BSIT-WMA-4B</b></h1>
 
-<h3 align="center"><b>↓Here is our Individual Websites↓</b></h3>
+<h3 align="center"><b></b></h3>
 
 ***
+
+<h3 align="center"><b>Here is our Individual Websites</b></h3>
 
 | <h3 align="center"><b>Members</b></h3> | <h3 align="center"><b>Portfolio Websites</b></h3> |
 |--------|-------|
