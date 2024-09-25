@@ -1,1 +1,17 @@
-# IPT2-Casestudy
+<h1 align="center"><b>IPT2 - CaseStudy</b></h1>
+<h2 align="center"><b>BSIT-WMA-4B</b></h2>
+
+---
+
+<h3 align="center"><b>Here is our Individual Websites</b></h3>
+
+***
+
+| <h3 align="center"><b>Members</b></h3> | <h3 align="center"><b>Portfolio Websites</b></h3> |
+|--------|-------|
+| **1. John Mark Vincent C. Balagso** |![John Mark Vincent C. Balagso](Balagso.png)|
+| **2. Christian A. Ubaldo** |![Christian A. Ubaldo](Ubaldo.png)|
+| **3. Arjay Z. Santiano** |![Arjay Z. Santiano](Santiano.png)| 
+| **4. John Mark Vincent C. Balagso** |![John Mark Vincent C. Balagso](Balagso.png)| 
+| **5. John Mark Vincent C. Balagso** |![John Mark Vincent C. Balagso](Balagso.png)| 
+| **6. John Mark Vincent C. Balagso** |![John Mark Vincent C. Balagso](Balagso.png)| 
