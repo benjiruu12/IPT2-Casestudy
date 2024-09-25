@@ -1,6 +1,6 @@
 <div align="center">
     <h1><b>IPT2 - CaseStudy</b></h1>
-    <h1><b>BSIT-WMA-4B</b></h1>
+    <h2><b>BSIT-WMA-4B</b></h2>
 </div>
 
 ***
