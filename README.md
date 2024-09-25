@@ -1,6 +1,6 @@
-<h1 align="center"><b>IPT2 - CaseStudy</b></h1>
+<h2 align="center"><b>IPT2 - CaseStudy</b></h2>
 
-<h4 align="center"><b>BSIT-WMA-4B</b></h4>
+<h3 align="center"><b>BSIT-WMA-4B</b></h3>
 
 ***
 
