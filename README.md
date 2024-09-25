@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>BSIT-WMA-4B</b></h2>
 
-<h3 align="center"><b></b></h3>
+<></>
 
 ***
 
