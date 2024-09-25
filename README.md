@@ -1,11 +1,6 @@
-<div align="center">
-    <h1><b>IPT2 - CaseStudy</b></h1>
-    <h2><b>BSIT-WMA-4B</b></h2>
-</div>
-
 ***
 
-<h3 align="center"><b>Here is our Individual Websites</b></h3>
+<h1 align="center"><b>IPT2 - CaseStudy</b></h1>
 
 ---
 
