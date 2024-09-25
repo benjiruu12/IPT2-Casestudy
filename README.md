@@ -2,8 +2,6 @@
 
 <h2 align="center"><b>BSIT-WMA-4B</b></h2>
 
-<br>
-
 ***
 
 <h3 align="center"><b>Here is our Individual Websites</b></h3>
