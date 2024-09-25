@@ -6,6 +6,8 @@
 
 <h3 align="center"><b>Here is our Individual Websites</b></h3>
 
+---
+
 | <h3 align="center"><b>Members</b></h3> | <h3 align="center"><b>Portfolio Websites</b></h3> |
 |--------|-------|
 | **1. John Mark Vincent C. Balagso** |![John Mark Vincent C. Balagso](./assets/images/Balagso.png)|
